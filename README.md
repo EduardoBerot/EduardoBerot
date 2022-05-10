@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EduardoBerot an Junior Dev 
+- 👀 I’m interested in lean more about programming languages
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on HTML and CSS codes
+- 📫 Talk with me :) eduardocaneppele74@gmail.com
